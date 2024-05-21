@@ -23,3 +23,8 @@ add to the last part of the tsconfig
 },
   "include": ["src"]
 ```
+
+### module of js2015
+```
+"module": "es2015",  
+```
