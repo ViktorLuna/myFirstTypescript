@@ -1,7 +1,7 @@
 import { Invoice } from './classes/invoice.js' //always use .js files
-import { listTemplate } from './classes/listTemplate.js';
 import { Payment } from './classes/payment.js' //always use .js files
 import { Hasformatter } from './interfaces/hasformatter.js' //always use .js files
+import { listTemplate } from './classes/listTemplate.js'; //always use .js files
 
 //Setting variable to an HTMLAnchoElement type called TypeCasting
 const form = document.querySelector('.new-item-form') as HTMLAnchorElement;
