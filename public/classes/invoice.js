@@ -1,4 +1,3 @@
-//classes
 export class Invoice {
     constructor(client, //can read but can't be altered
     details, // available inside the class
